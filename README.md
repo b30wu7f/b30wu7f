@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @b30wu7f
 - 👀 I’m interested in programming languages, frameworks, pentesting and video games.
 - 🌱 I’m currently learning web programming.
-- 💞️ I’m looking to collaborate on Go
+- 💞️ I’m looking to collaborate on Go based projects.
 - 📫 How to reach me : b30wu7f@protonmail.com
 
 <!---
